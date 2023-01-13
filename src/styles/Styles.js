@@ -46,6 +46,10 @@ const Styles = StyleSheet.create({
     fontSize: 17,
     fontWeight: 'bold',
   },
+  warningtext: {
+    color: 'red',
+    fontSize: 15,
+  },
 });
 
 export default Styles;
